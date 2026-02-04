@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 - 3rd Year Computer Science Student at Colorado State University
 - Study Abroad ✈️ Korea University Fall'25
-- Currently Learning Algorithms and Operating Systems
+- Currently Learning Systems Security, Software Engineering, Modern Web Applications
 - Building fun and intuitive projects to further my experience and knowledge within the field
 
 ## 👾 Tech Stack
