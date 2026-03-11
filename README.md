@@ -4,24 +4,20 @@
   </a>
 </h1>
 
-## 🧑‍💻 About Me
+## About
 - 3rd Year Computer Science Student at Colorado State University
 - Study Abroad ✈️ Korea University Fall'25
 - Currently Learning Systems Security, Software Engineering, Modern Web Applications
-- Building fun and intuitive projects to further my experience and knowledge within the field
 
-## 👾 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-## 🌐 Frameworks
+## Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-## 🛠️ Developer Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔗 Connect
 <p>
